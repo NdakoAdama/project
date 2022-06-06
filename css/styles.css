@@ -124,7 +124,7 @@ a {
 }
 
 a:hover {
-  color: #4d5055;
+ color: #4d5055;
   text-decoration: underline;
 }
 
@@ -523,7 +523,8 @@ input[type="checkbox"] {
   padding-top: 7rem;
   padding-bottom: 5.5rem;
   background: linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)),
-    url("../images/portrait.jpg") center center no-repeat;
+  /* url("../images/portrait.jpg") center center no-repeat;*/
+    url("../images/Ada4.jpg") center center no-repeat;
   background-size: cover;
   text-align: center;
 }
@@ -999,6 +1000,7 @@ a:hover.back-to-top {
   .basic-2 .text-box {
     padding-right: 2.125rem;
     padding-left: 2.125rem;
+    
   }
   /* end of services */
 
